@@ -1,2 +1,2 @@
 # genqrcode
-Generate QR Codes
+Generate QR Code
